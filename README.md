@@ -1,13 +1,9 @@
-# EXPERIMENT--01-ALP-FOR-8086
-# Name : VIDHYA LAKSHMI S
+## EXPERIMENT--01-ALP-FOR-8086
+## Name : VIDHYA LAKSHMI S
 
-# Roll no : 212223230238
+## Roll no : 212223230238
 
-# Date of experiment : 04-08-2026
-
-
-
-
+## Date of experiment : 04-08-2026
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
